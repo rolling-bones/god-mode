@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=videoApp-sonarCloud_travis-ci&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=videoApp-sonarCloud_travis-ci) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
