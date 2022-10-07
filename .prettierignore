@@ -2,3 +2,6 @@
 build
 coverage
 *.yml
+*.json
+*.html
+*.md
