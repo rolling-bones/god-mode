@@ -1,2 +1,5 @@
 build
 coverage
+react-app-env.d.ts
+*.test.js
+*.test.ts
