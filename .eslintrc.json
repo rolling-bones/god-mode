@@ -23,7 +23,6 @@
       2,
       "single",
       { "avoidEscape": true, "allowTemplateLiterals": true }
-    ],
-    "jsx-quotes": [2, "prefer-single"]
+    ]
   }
 }
