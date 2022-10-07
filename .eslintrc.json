@@ -19,6 +19,7 @@
   },
   "plugins": ["react"],
   "rules": {
+    "@typescript-eslint/triple-slash-reference": "warn",
     "quotes": [
       2,
       "single",
